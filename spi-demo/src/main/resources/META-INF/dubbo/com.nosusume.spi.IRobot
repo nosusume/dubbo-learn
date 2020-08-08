@@ -1,0 +1,2 @@
+aiChannel = com.nosusume.spi.AIChannel
+robotsChannel = com.nosusume.spi.RobotsChannel
